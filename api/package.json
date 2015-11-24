@@ -1,0 +1,14 @@
+{
+  "name": "oneiric-api",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "hapi": "^11.1.2"
+  }
+  "engines": {
+    "node": ">=5.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+api:
+  ports:
+    - "3000:80"
+  volumes:
+    - "./api:/usr/src/oneiric-api"
+  environment:
+    NODE_ENV: "development"
